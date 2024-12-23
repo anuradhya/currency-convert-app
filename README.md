@@ -26,5 +26,3 @@ A simple React Native app to convert Sri Lankan Rupees (LKR) to US Dollars (USD)
 2. Tap the "Convert" button.  
 3. View the converted amount displayed on the screen.  
 
-## License  
-This project is licensed under the MIT License.  
